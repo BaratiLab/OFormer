@@ -1,6 +1,11 @@
 # Operator-Transformer
 Code for reproducing *"Transformer for Partial Differential Equations' Operator Learning"*  ([paper](https://openreview.net/forum?id=EPPqt3uERT&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR))).
 
+<div style style=”line-height: 20%” align="center">
+<h3> Models prediction on 2D Incompressible flow </h3>
+<img src="https://github.com/BaratiLab/OFormer/blob/main/oformer_ns2d_re200.gif" width="600">
+</div>
+
 For instruction on different cases, please go the corresponding subfolder. These codes are tested under PyTorch 1.8.1 on Ubuntu 18.
 
 ### Datasets for 1D Burgers/2D Darcy flow/2D Navier-Stokes (uniform equidist grid)
