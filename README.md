@@ -43,3 +43,16 @@ Alongside the aforementioned projects that have generously shared their valuable
 * A lot useful modules for building Transformer: https://github.com/lucidrains/x-transformers
 
 ## Citations
+If you find this project useful, please consider citing our work:
+```
+@article{
+li2023transformer,
+title={Transformer for Partial Differential Equations{\textquoteright} Operator Learning},
+author={Zijie Li and Kazem Meidani and Amir Barati Farimani},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2023},
+url={https://openreview.net/forum?id=EPPqt3uERT},
+note={}
+}
+```
