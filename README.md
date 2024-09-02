@@ -1,6 +1,8 @@
 # Operator-Transformer
 Code for reproducing *"Transformer for Partial Differential Equations' Operator Learning"*  ([paper](https://openreview.net/forum?id=EPPqt3uERT&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR))).
 
+(Updated Aug31/2024) OFormer code has been re-organized will become part of the [neuraloperator library](https://github.com/neuraloperator/neuraloperator/pull/293) in the future release. Check it out!
+
 <div style style=”line-height: 20%” align="center">
 <h3> Models prediction on 2D Incompressible flow </h3>
 <img src="https://github.com/BaratiLab/OFormer/blob/main/oformer_ns2d_re200.gif" width="600">
